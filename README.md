@@ -28,7 +28,8 @@
 This is an example of what the ACR indicator looks like.
 This is the 24-Period ACR for SPY on the daily chart
 
-![](AverageChangeRankPic.png)
+
+![](AverageChangeRankPic.PNG)
 
  - **Period:** This is the amount the candlesticks that are used to calculate the average change rank.
 
@@ -72,7 +73,7 @@ This is the 24-Period ACR for SPY on the daily chart
   - One should exit a long position once the ACR has either touched or broken above the mid-line.
   - Here is an example of good entry and exit points for long positions.
 <br/><br/>
-![](ACRLongs.png)
+![](ACRLongs.PNG)
 <br/><br/>
 
 - **Entry and Exit for Short Positions**
@@ -80,7 +81,7 @@ This is the 24-Period ACR for SPY on the daily chart
   - One should exit their short position once the ACR has either touched or broken below the mid-line.
   - Here is an example of good entry and exit points for short positions.
     <br/><br/>
-    ![](ACRShorts.png)
+    ![](ACRShorts.PNG)
     <br/><br/>
 
 - **Using the ACR Yourself**
