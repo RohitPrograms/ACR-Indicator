@@ -63,7 +63,7 @@ This is the 24-Period ACR for SPY on the daily chart
 ## **Using the ACR Indicator**
 
 - **Mean Reversion**
-  - Mean reversion is a theory that assume's that an assets price will revert back to the average price value over time.
+  - Mean reversion is a theory that assumes that an asset's returns will revert back to average levels over time.
   - For this indicator, I will be using the median as a central measure of tendency as opposed to the mean (hence the mid-line at the 50th percentile). This is because medians aren't severely affected by potential outliers such as earnings reports.
 <br/><br/>
 
